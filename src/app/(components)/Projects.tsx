@@ -12,7 +12,7 @@ const Projects = () => {
       description:
         "Ecobazar is an eco-friendly e-commerce platform created with React and Tailwind CSS.",
       github: "https://github.com/mehtabhussain12/eCommerce-Shop-Website",
-      live: "https://fasco-35cu.vercel.app/"
+      live: "https://e-commerce-shop-website-l1io.vercel.app/"
     },
     {
       id: 2,
