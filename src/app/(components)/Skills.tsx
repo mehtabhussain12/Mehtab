@@ -7,6 +7,7 @@ import { Navigation } from "swiper/modules";
 import "swiper/css";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import Contact from "./Contact";
+import { PiHandSwipeRightLight } from "react-icons/pi";
 
 const Skills: FC = () => {
   const languages = [
@@ -85,8 +86,12 @@ const Skills: FC = () => {
                 {language.name}
               </p>
             </div>
+    
           ))}
         </div>
+               <div className="flex float-right mr-6 lg:hidden md:hidden">
+       <PiHandSwipeRightLight className="text-white text-4xl mb-6" />
+       </div>
       </div>
       {/* <Contact/> */}
       <Contact/>
