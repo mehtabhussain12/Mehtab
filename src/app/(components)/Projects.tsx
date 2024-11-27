@@ -28,8 +28,8 @@ const Projects = () => {
       img: "Project3.png",
       name: "Toutem",
       description: "Discover natural beauty at Toutem, your go-to e-commerce",
-      github: "/",
-      live: "https://toutem-iota.vercel.app/"
+      github: "https://github.com/mehtabhussain12/School",
+      live: "https://school-umber-ten.vercel.app/"
     }
   ];
 
