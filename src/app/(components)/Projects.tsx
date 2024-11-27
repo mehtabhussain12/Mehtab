@@ -25,7 +25,7 @@ const Projects = () => {
     },
     {
       id: 3,
-      img: "Project3.png",
+      img: "Screenshot 2024-11-27 142913.png",
       name: "Toutem",
       description: "Discover natural beauty at Toutem, your go-to e-commerce",
       github: "https://github.com/mehtabhussain12/School",
