@@ -14,7 +14,7 @@ const Hero = () => {
     <div className='mt-6 text-center'> 
       {/* <h1 className='text-center text-xl text-white font-semibold'>Hey</h1> */}
       <h1 className='text-4xl text-white font-bold'>I’m Mehtab</h1>
-      <h1 className='text-4xl text-white'>A Frontend <span className='text-[#D32D20]'>Developer.</span></h1>
+      <h1 className='text-4xl text-white'>Full Stack <span className='text-[#D32D20]'>Developer and UI/UX designer.</span></h1>
       <div className=' mt-6 text-center px-4 max-w-2xl'>
   {/* <p className='text-white sm:text-md text-sm sm:leading-relaxed leading-6'>
     A highly motivated student studying Artificial Intelligence and Machine Learning. Actively seeking opportunities to apply my skills and knowledge to real-world projects and contribute to the advancement of the industry.
